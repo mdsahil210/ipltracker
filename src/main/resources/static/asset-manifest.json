@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e77082a6.chunk.css",
+    "main.js": "/static/js/main.dd4a2016.chunk.js",
+    "main.js.map": "/static/js/main.dd4a2016.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.95c9929b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.95c9929b.js.map",
+    "static/js/2.912c7dad.chunk.js": "/static/js/2.912c7dad.chunk.js",
+    "static/js/2.912c7dad.chunk.js.map": "/static/js/2.912c7dad.chunk.js.map",
+    "static/js/3.ec8d4b32.chunk.js": "/static/js/3.ec8d4b32.chunk.js",
+    "static/js/3.ec8d4b32.chunk.js.map": "/static/js/3.ec8d4b32.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e77082a6.chunk.css.map": "/static/css/main.e77082a6.chunk.css.map",
+    "static/js/2.912c7dad.chunk.js.LICENSE.txt": "/static/js/2.912c7dad.chunk.js.LICENSE.txt",
+    "static/media/Deccan-Chargers.aa5f4ac8.png": "/static/media/Deccan-Chargers.aa5f4ac8.png",
+    "static/media/Delhi-Capital-_Logo.139ad795.png": "/static/media/Delhi-Capital-_Logo.139ad795.png",
+    "static/media/GL.e001d644.png": "/static/media/GL.e001d644.png",
+    "static/media/KKR-Logo.96e74288.png": "/static/media/KKR-Logo.96e74288.png",
+    "static/media/KXIP-Logo.db72a900.png": "/static/media/KXIP-Logo.db72a900.png",
+    "static/media/RCB-png-logo-2020.69a7ed3a.png": "/static/media/RCB-png-logo-2020.69a7ed3a.png",
+    "static/media/RR-Logo.b1567dc0.png": "/static/media/RR-Logo.b1567dc0.png",
+    "static/media/SRH-Logo-Png-.68f274f2.png": "/static/media/SRH-Logo-Png-.68f274f2.png",
+    "static/media/csk-hd-logo-2020.b2c2a40e.png": "/static/media/csk-hd-logo-2020.b2c2a40e.png",
+    "static/media/kochi-tuskers.f650ef43.png": "/static/media/kochi-tuskers.f650ef43.png",
+    "static/media/mumbai-indians.4bcf847a.png": "/static/media/mumbai-indians.4bcf847a.png",
+    "static/media/pune-warriors.9c3ef945.png": "/static/media/pune-warriors.9c3ef945.png",
+    "static/media/rps.d9bc725c.png": "/static/media/rps.d9bc725c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95c9929b.js",
+    "static/js/2.912c7dad.chunk.js",
+    "static/css/main.e77082a6.chunk.css",
+    "static/js/main.dd4a2016.chunk.js"
+  ]
+}
